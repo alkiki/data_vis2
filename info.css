@@ -1,0 +1,21 @@
+h1, h3{
+    font-family: "DM Serif Display", serif;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+  }
+  #my_dataviz {
+    flex: 1;
+  }
+  #info {
+    flex: 1;
+    padding-left: 20px;
+  }
+  h3 {
+    margin-top: 10px;
+  }
+  

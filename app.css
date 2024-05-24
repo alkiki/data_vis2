@@ -1,0 +1,13 @@
+h1, h2{
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+}
+
+#details{
+    text-align: center;
+}
+
+a{
+    display: inline-block;
+    font-family: "DM Serif Display", serif;
+}
